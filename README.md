@@ -29,3 +29,8 @@ python snake.py
 
 - Python 3.8+
 - Windows (usa `msvcrt` para leitura de teclas)
+
+## Dicas
+
+- Planeje sua rota antes de virar — quanto maior a cobra, mais difícil desviar
+- Nos níveis altos a cobra fica rápida; tente manter a cobra em espiral pelo centro
